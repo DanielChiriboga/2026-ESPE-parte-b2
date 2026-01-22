@@ -1,1 +1,1 @@
-Daniel Isai Chiriboga Z
+Daniel Isai Chiriboga Zurita
