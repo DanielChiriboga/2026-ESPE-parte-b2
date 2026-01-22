@@ -6,5 +6,4 @@ class CruiseControlTest {
 	
 	@Test
     public void smokeTest() {}
-	
 }
